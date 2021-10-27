@@ -1,3 +1,9 @@
 a. criado por Linus Torvalds, pois ele não gostou da mudança de licença do BitKeeper
 b. a microsoft
 c. sim, podemos usar a interface gráfica no site do github, ou o github pra desktop
+
+
+Resposta Yasmin:
+a.criado por Linus Torvalds, pois ele não gostou da mudança de licença do BitKeeper
+b. a microsoft
+c. sim, tem uma interface no proprio site, e também o git copilot.
