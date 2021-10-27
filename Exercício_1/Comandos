@@ -1,0 +1,12 @@
+Clonar um repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Criar um novo repositório local
+$ git init
+
+Criar uma nova branch
+$ git checkout -b "nome-da-branch"
+
+Enviar o repositório local para o remoto
+$ git push origin nome-da-branch
+
