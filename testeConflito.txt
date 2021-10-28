@@ -6,3 +6,4 @@ cavalinho de pau
 
 
 log horse - repo local -- teste 2 (mexendo em linhas diferentes)
+horse de wood - repo remoto -- teste 2 (mexendo em linhas diferentes)
