@@ -1,0 +1,4 @@
+O git foi criado por Linus Torvalds com o intuito de ter o controle de versão dos códigos
+A microsoft é o atual proprietária do GitHub, para reforçar a sua percepção de parceria de projetos de tecnologia aberta.
+Sim, via interface gráfica.
+
