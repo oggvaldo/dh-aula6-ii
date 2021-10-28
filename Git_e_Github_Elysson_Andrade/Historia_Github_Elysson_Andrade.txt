@@ -1,0 +1,3 @@
+1- O sistema de controle de versão git foi desenvolvido em 2005 pelo Linus Torvalds. Ele foi criado pois Torvalds queria algo relativamente rápido para conseguir lidar com uma série constante de atividades ligadas ao Linux.
+2- Atualmente o Git pertence a empresa Microsoft. Segundo a Microsoft o git foi adquirido para fortalecer o comprometimento com a liberdade do desenvolvedor, abertura e inovação.
+3- É possível trabalhar com Github além do terminal, basta utilizar a interface gráfica.
