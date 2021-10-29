@@ -1,0 +1,2 @@
+vitor: Linus torvalds. O dono do antigo sistema de controle de versão que ele usava, pediu que o Linus pagasse pelo software, que já não era lá essas coisas todas. Linus, indignado, foi e fez o melhor sistema de controle que há.
+
